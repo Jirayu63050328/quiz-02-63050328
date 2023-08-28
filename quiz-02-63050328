@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .text {
+    background-color: burlywood;
+    position: absolute;
+    top: 100px;
+    left: 130px;
+    margin-left: 100px;
+}
+.img1 img {
+    width: 120px;
+    height: auto;
+    margin: 15px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px #0c0c0c;
+  }
+  .รูป1 {
+    width: 300px;
+    margin: 2rem auto;
+    margin-left: 80px;
+    height: 300px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    background-color: rgb(188, 188, 212);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  .ไอโฟนสุดแซ่บ {
+    background: #125688;
+    color: white;
+  }
